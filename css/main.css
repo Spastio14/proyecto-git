@@ -35,6 +35,10 @@ section {
     margin-bottom: 20px;
 }
 
+section:hover {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
 h2 {
     color: #b8401f;
     margin-top: 0;
